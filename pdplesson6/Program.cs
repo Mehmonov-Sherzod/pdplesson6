@@ -5,7 +5,9 @@
     {
 
 
-        double  nymber =Convert .ToDouble (Console .ReadLine());    
+        double  number =Convert .ToDouble (Console .ReadLine());    
+
+        Console .WriteLine ( number );
 
 
 
