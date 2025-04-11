@@ -16,5 +16,12 @@ namespace pdplesson6
 
 
         }
+        public static bool add2()
+        {
+            return false;
+
+
+
+        }
     }
 }
