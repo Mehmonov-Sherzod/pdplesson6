@@ -5,7 +5,7 @@
     {
 
 
-
+        double  nymber =Convert .ToDouble (Console .ReadLine());    
 
 
 
