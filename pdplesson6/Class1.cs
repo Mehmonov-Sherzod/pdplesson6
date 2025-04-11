@@ -8,5 +8,13 @@ namespace pdplesson6
 {
     class Class1
     {
+
+        public static bool add()
+        {
+            return false;
+
+
+
+        }
     }
 }
